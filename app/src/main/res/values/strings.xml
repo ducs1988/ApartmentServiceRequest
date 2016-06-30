@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Apartment Service Request</string>
+    <string name="name">Name</string>
+    <string name="apartment">Apartment</string>
+    <string name="priority">Choose Priority</string>
+    <string name="category">Choose Category</string>
+    <string name="full_description">Full Description</string>
+    <string name="access_instructions">Access Instructions</string>
+    <string name="permission_to_enter">Permission to Enter</string>
+    <string name="submit">Submit</string>
+    <string name="summary">Summary</string>
+
+    <string-array name="priority_array">
+        <item>24 Hour Response</item>
+        <item>Emergency</item>
+        <item>Other</item>
+        <item>Preventative Maintenance</item>
+        <item>Scheduled Maintenance</item>
+        <item>When Available</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>Appliances</item>
+        <item>Electrical</item>
+        <item>Exterminating</item>
+        <item>General Service</item>
+        <item>Heating and Air Conditioning</item>
+        <item>Lighting</item>
+        <item>Plumbing</item>
+        <item>Warranty</item>
+        <item>Windows</item>
+    </string-array>
+
+</resources>
